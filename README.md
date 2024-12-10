@@ -19,4 +19,4 @@ Projeto com foco na análise de dados para definição de perfil de clientes, ju
 ## Veja também estes projetos feitos por mim:
 
 * **[Análise de dados sobre a vacinação da COVID-19 no Brasil](https://bit.ly/3tvdDLc)**
-* **[Detecção de fraudes em transações com cartão de crédito](https://github.com/Henrique-Peter/fraud_detection_credit_card)**
+* **[Detecção de fraudes em transações com cartão de crédito](https://github.com/Henrique-Peter/fraud_detection)**
